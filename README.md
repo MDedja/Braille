@@ -1,5 +1,5 @@
 # BrajevoPismoIgra
-Game for learning Braille
+Game made to help people learn Braille.
 
 
 Simple game for Andorid phones. Made with goal to make learning Braille easier. 
